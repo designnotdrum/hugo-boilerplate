@@ -9,6 +9,18 @@ languageLang = "en"
 relativeURLs = false
 title = "My New Hugo Site"
 [[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+[[menu.main]]
+name = "Work"
+url = "/work"
+weight = 1
+[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
