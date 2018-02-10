@@ -1,5 +1,6 @@
 ---
-title: "we out here"
+title: we out here
+
 ---
 boy we out here doing the damn thang
 
