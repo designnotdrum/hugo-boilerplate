@@ -1,0 +1,19 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: post title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: post date
+  config:
+    required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: thumbnail
