@@ -27,4 +27,4 @@ url = "/"
 weight = 1
 [params]
 author = "Nick Mason"
-description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\nThe web portfolio of Nick Mason, a Product Design Leader who is not the drummer from Pink Floyd."
+description = "The web portfolio of Nick Mason, a Product Design Leader who is not the drummer from Pink Floyd."
