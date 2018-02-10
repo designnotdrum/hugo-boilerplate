@@ -12,6 +12,8 @@ function () {
     console.log('it\'s at least '+numberOfButts+' butts in here');
 };
 
+{{< /highlight >}}
+
 Check out [Google][google] for more info.
 
 [google]: https://google.com
